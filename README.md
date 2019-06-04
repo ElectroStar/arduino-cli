@@ -3,7 +3,7 @@ Docker Image for arduino-cli
 
 # Supported tags and respective `Dockerfile` links
 
--	[`0.3.6-alpha.preview`, `latest` (*Dockerfile*)](https://github.com/ElectroStar/arduino-cli/blob//Dockerfile)
+-	[`0.3.6-alpha.preview`, `latest` (*Dockerfile*)](https://github.com/ElectroStar/arduino-cli/blob/49e00f9d5e4132ac5b252d8e689a1b646baf902a/Dockerfile)
 
 # Quick reference
 
